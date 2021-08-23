@@ -6,4 +6,4 @@ hello xm!hello git!
 hello xm!hello git!
 hello xm!hello git!
 hello xm!hello git!
-hello xm!hello git!
+hello xm!hello git! hot-fix test
